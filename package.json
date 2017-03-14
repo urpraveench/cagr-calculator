@@ -1,0 +1,25 @@
+{
+  "name": "cagr-calc",
+  "version": "0.0.1",
+  "description": "This is CAGR calculator app for knowing your investment CAGR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urpraveench/cagr-calculator.git"
+  },
+  "keywords": [
+    "cagr",
+    "calc",
+    "stocks",
+    "cagr"
+  ],
+  "author": "Praveen Kumar CH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urpraveench/cagr-calculator/issues"
+  },
+  "homepage": "https://github.com/urpraveench/cagr-calculator#readme"
+}
